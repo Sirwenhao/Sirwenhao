@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working on HuaQiao University
 - 🌱 I’m currently learning Deep Learning
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirwenhao&layout=compact)](https://github.com/Sirwenhao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirwenhao&layout=compact)](https://github.com/Sirwenhao/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sirwenhao&theme=vue&show_icons=true)
 <!--
 **Sirwenhao/Sirwenhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

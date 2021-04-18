@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on HuaQiao University
+-🔭 I’m currently working on HuaQiao University
 -🌱 I’m currently learning Deep Learning
 -🤔 Slowly faster
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirwenhao&layout=compact)](https://github.com/Sirwenhao/github-readme-stats)

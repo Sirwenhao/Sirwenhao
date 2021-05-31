@@ -6,7 +6,7 @@
 -🤔 Slowly faster
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirwenhao&layout=compact)](https://github.com/Sirwenhao/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sirwenhao&theme=vue&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sirwenhao&theme=merko&show_icons=true)
 <!--
 **Sirwenhao/Sirwenhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 ### Hi there 👋
--🔭 I’m currently working on HuaQiao University
+-🔭 I’m currently working on HuaQiao University, SMART VIP Lab!
 
 -🌱 I’m currently learning Deep Learning
 

@@ -1,6 +1,4 @@
 ### Hi there 👋
--🔭 I’m currently working on HuaQiao University, SMART VIP Lab!
-
 -🌱 I’m currently learning Deep Learning
 
 -🤔 Slowly faster Slowly stronger

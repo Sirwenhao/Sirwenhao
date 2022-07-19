@@ -4,7 +4,10 @@
 -🤔 Slowly faster Slowly stronger
 
 -🌱 I’m currently learning Deep Learning
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/Sirwenhao)  
+
+<!--
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/Sirwenhao)
+-->
 
 
 

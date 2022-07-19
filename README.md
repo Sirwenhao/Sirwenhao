@@ -1,17 +1,18 @@
-###   <div align="center"> Hi there 👋. I'm WH, a deep-learning algorithm engineer 👨‍💻</div>  
+###   <div align="center"> Hi there 👋. I'm WH, a deep-learning algorithm engineer 👨‍💻</div>   
+
 
 -🤔 Slowly faster Slowly stronger
 
 -🌱 I’m currently learning Deep Learning
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Sirwenhao)  
 
+
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirwenhao&layout=compact)](https://github.com/Sirwenhao/github-readme-stats) 
- <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Sirwenhao&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
- 
- ![Visitor Count](https://profile-counter.glitch.me/Sirwenhao/count.svg)
+ <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Sirwenhao&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
  
  ![decription](https://img.shields.io/badge/Tools-PyTorch-yellowgreen)  ![decription](https://img.shields.io/badge/Tools-Python-brightgreen)  ![decription](https://img.shields.io/badge/Tools-Git-orange)  ![description](https://img.shields.io/badge/Tools-C%2B%2B-green)
- 
+
  
 <!--
 **Sirwenhao/Sirwenhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,7 +42,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />   
 </div>
 
-
+ ![Visitor Count](https://profile-counter.glitch.me/Sirwenhao/count.svg)
 
 <!--
 ## Connect with me  

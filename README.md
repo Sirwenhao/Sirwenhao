@@ -5,17 +5,14 @@
 
 -🌱 I’m currently learning Deep Learning
 
+ ![decription](https://img.shields.io/badge/Tools-PyTorch-yellowgreen)  ![decription](https://img.shields.io/badge/Tools-Python-brightgreen)  ![decription](https://img.shields.io/badge/Tools-Git-orange)  ![description](https://img.shields.io/badge/Tools-C%2B%2B-green)
+
 <!--
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Sirwenhao)
 -->
 
-
-
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirwenhao&layout=compact)](https://github.com/Sirwenhao/github-readme-stats) 
  <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Sirwenhao&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
- 
- ![decription](https://img.shields.io/badge/Tools-PyTorch-yellowgreen)  ![decription](https://img.shields.io/badge/Tools-Python-brightgreen)  ![decription](https://img.shields.io/badge/Tools-Git-orange)  ![description](https://img.shields.io/badge/Tools-C%2B%2B-green)
-
  
 <!--
 **Sirwenhao/Sirwenhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

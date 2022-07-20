@@ -5,7 +5,7 @@
 
 -🌱 I’m currently learning Deep Learning
 
- ![decription](https://img.shields.io/badge/Tools-PyTorch-yellowgreen)  ![decription](https://img.shields.io/badge/Tools-Python-brightgreen)  ![decription](https://img.shields.io/badge/Tools-Git-orange)  ![description](https://img.shields.io/badge/Tools-C%2B%2B-green)
+ ![decription](https://img.shields.io/badge/Tools-PyTorch-yellowgreen)  ![decription](https://img.shields.io/badge/Tools-Python-brightgreen)  ![decription](https://img.shields.io/badge/Tools-Git-orange)  ![description](https://img.shields.io/badge/Tools-C%2B%2B-green)  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sirwenhao.visitor-badge)
 
 <!--
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Sirwenhao)
@@ -42,7 +42,11 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />   
 </div>
 
- ![Visitor Count](https://profile-counter.glitch.me/Sirwenhao/count.svg)
+<!--
+![Visitor Count](https://profile-counter.glitch.me/Sirwenhao/count.svg)
+-->
+ 
+
 
 <!--
 ## Connect with me  

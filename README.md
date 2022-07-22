@@ -1,9 +1,9 @@
-###   <div align="center"> Hi there 👋. I'm WH, a deep-learning algorithm engineer 👨‍💻</div>   
+###   <div align="center"> Hi there 👋. I'm WH, a ML/DL algorithm engineer 👨‍💻</div>   
 
 
 -🤔 Slowly faster Slowly stronger
 
--🌱 I’m currently learning Deep Learning
+-🌱 I’m currently learning ML/DL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirwenhao&layout=compact)](https://github.com/Sirwenhao/github-readme-stats) 
 

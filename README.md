@@ -1,4 +1,4 @@
-###   <div align="center"> Hi there 👋. I'm WH, a ML/DL algorithm engineer 👨‍💻</div>   
+###   <div align="center"> Hi there 👋. I'm WH👨‍💻</div>   
 
 
 -🤔 Slowly faster Slowly stronger

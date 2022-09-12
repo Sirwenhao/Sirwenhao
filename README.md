@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### DevTools  
 
 </td><td valign="top" width="100%">
-Tool
+
 
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />

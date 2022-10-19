@@ -5,6 +5,8 @@
 
 -🌱 I’m currently learning ML/DL
 
+api/top-langs?username=Sirwenhao
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirwenhao&layout=compact)](https://github.com/Sirwenhao/github-readme-stats)
  
 

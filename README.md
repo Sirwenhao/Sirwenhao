@@ -3,7 +3,7 @@
 
 -🤔 Slowly faster Slowly stronger
 
--🌱 I’m currently learning ML/DL
+-🌱 I’m currently learning Image/Video Processing
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirwenhao&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

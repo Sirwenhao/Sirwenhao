@@ -1,9 +1,9 @@
 ###   <div align="center"> Hi there 👋. I'm WH👨‍💻</div>   
 
 
--🤔  Slowly faster Slowly stronger
+- 🤔 Slowly faster Slowly stronger
 
--🌱  I’m currently learning Image/Video Processing
+- 🌱 I’m currently learning Image/Video Processing
 
 - :construction_worker: Focus on video content understanding, video coding and decoding, video quality enhancement, etc.
 

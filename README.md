@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Image/Video Processing
 
-- :construction_worker: Focus on video content understanding, video quality enhancement, etc.
+- :construction_worker: Focus on video content understanding, video quality assessment/enhancement, etc.
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirwenhao&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

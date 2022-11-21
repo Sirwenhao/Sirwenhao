@@ -5,7 +5,10 @@
 
 - 🌱 I’m currently learning Image/Video Processing
 
+- 💻: I am currently a junior video codec algorithm engineer
+
 - :construction_worker: Focus on video content understanding, video quality assessment/enhancement, etc.
+
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirwenhao&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

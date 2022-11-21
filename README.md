@@ -1,7 +1,7 @@
 ###   <div align="center"> Hi there 👋. I'm WH👨‍💻</div>   
 
 
-- 🤔 Slowly faster Slowly stronger
+- ☀️: Slowly faster Slowly stronger
 
 - 🌱 I’m currently learning Image/Video Processing
 

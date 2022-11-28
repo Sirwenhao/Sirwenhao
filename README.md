@@ -3,8 +3,6 @@
 
 - ☀️: Slowly faster Slowly stronger
 
-- 🌱 I’m currently learning Image/Video Processing
-
 - 💻: I am currently a junior video codec algorithm engineer
 
 - :construction_worker: Focus on video content understanding, video quality assessment/enhancement, etc.

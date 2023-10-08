@@ -7,7 +7,7 @@
 
 - :construction_worker: Focus on video content understanding, Multilanguage OCR, etc.
 
-- ![decription](https://img.shields.io/badge/Tools-PyTorch-yellowgreen)  ![decription](https://img.shields.io/badge/Tools-Python-yellowgreen)  ![decription](https://img.shields.io/badge/Tools-Git-orange)  ![description](https://img.shields.io/badge/Tools-C%2B%2B-green)  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Sirwenhao.visitor-badge&left_color=grey&right_color=green&left_text=Hello%20Visitors)
+- ![decription](https://img.shields.io/badge/Tools-PyTorch-yellowgreen)  ![decription](https://img.shields.io/badge/Tools-Python-yellowgreen)  ![decription](https://img.shields.io/badge/Tools-Git-orange)  ![description](https://img.shields.io/badge/Tools-C%2B%2B-green)  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Sirwenhao.visitor-badge&left_color=grey&right_color=green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirwenhao&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--

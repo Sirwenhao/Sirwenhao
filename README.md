@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 </td><td valign="top" width="100%">
 
 
-<div align="center">
-[![My Skills](https://skillicons.dev/iconsPyTorch,Docker,Git,C++,Linux)](https://skillicons.dev)
-</div>
+
+[![My Skills](https://skillicons.dev/icons?!=PyTorch,Docker,Git,C++,Linux)](https://skillicons.dev)
+
 
 <!--
 ![Visitor Count](https://profile-counter.glitch.me/Sirwenhao/count.svg)

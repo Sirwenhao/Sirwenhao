@@ -34,13 +34,9 @@ Here are some ideas to get you started:
 - ![Sirwenhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sirwenhao&theme=vue&show_icons=False)
 --> 
 
-### DevTools  
+#### DevTools  
 
-</td><td valign="top" width="100%">
-
-
-
-[![My Skills](https://skillicons.dev/icons?!=PyTorch,Docker,Git,C++,Linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?!=pytorch,docker,git,cpp,linux)](https://skillicons.dev)
 
 
 <!--

@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 #### DevTools  
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,docker,git,cpp,linux,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,docker,git,cpp,linux&theme=light)](https://skillicons.dev)
 
 <!--
 ![Visitor Count](https://profile-counter.glitch.me/Sirwenhao/count.svg)

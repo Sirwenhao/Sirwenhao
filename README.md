@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-[![My Skills](https://skillicons.dev/icons?i=PyTorch,Docker,Git,C++,Linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/iconsPyTorch,Docker,Git,C++,Linux)](https://skillicons.dev)
 </div>
 
 <!--

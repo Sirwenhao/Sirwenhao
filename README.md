@@ -7,7 +7,7 @@
 
 - :construction_worker: Focus on video content understanding, Multilanguage OCR, etc.
 
-- ![decription](https://img.shields.io/badge/Tools-PyTorch-yellowgreen)  ![decription](https://img.shields.io/badge/Tools-Python-yellowgreen)  ![decription](https://img.shields.io/badge/Tools-Git-orange)  ![description](https://img.shields.io/badge/Tools-C%2B%2B-green)  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Sirwenhao.visitor-badge&left_color=red&right_color=gray&left_text=Hello%20Visitors)
+- ![decription](https://img.shields.io/badge/Tools-PyTorch-yellowgreen)  ![decription](https://img.shields.io/badge/Tools-Python-yellowgreen)  ![decription](https://img.shields.io/badge/Tools-Git-orange)  ![description](https://img.shields.io/badge/Tools-C%2B%2B-green)  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Sirwenhao.visitor-badge&left_color=gray&right_color=yellowgreen&left_text=Hello%20Visitors)
 
 
 <!--

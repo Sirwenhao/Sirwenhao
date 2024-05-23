@@ -5,7 +5,7 @@
 
 - 💻: I am currently a junior AI engineer
 
-- :construction_worker: Focus on Video Content Understanding, Multilanguage OCR, NER etc.s
+- :construction_worker: Focus on Video Content Understanding, Multilanguage OCR, NER etc.
 
 - ![decription](https://img.shields.io/badge/Tools-PyTorch-green)  ![decription](https://img.shields.io/badge/Tools-Python-green)  ![decription](https://img.shields.io/badge/Tools-Git-orange)  ![description](https://img.shields.io/badge/Tools-C%2B%2B-green)  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Sirwenhao.visitor-badge&left_color=gray&right_color=green&left_text=Hello%20Visitors)
 
